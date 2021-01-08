@@ -268,7 +268,7 @@ For comments, view the following original blog URL in archive.org:
 
 
 ## Release
-
+- **1.2** - Jan 07 2021 - Modernized for jQuery 3.x
 - **1.1** - May 04 2011 - correct some little bugs
 - **1.0** - Apr 04 2011 - new optGroupSearch and minSize options, new methods destroy and addOption
 - **0.16** - Mar 15 2011 - new autoSortAvailable option
